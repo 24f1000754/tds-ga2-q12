@@ -1,0 +1,18 @@
+
+{
+  "A": {
+    "text": "Report job-351c0a338: callcafé\nReady ✓",
+    "complete": true,
+    "error": null
+  },
+  "B": {
+    "text": "Partial job-351c0a338",
+    "complete": false,
+    "error": null
+  },
+  "C": {
+    "text": "Draft job-351c0a338",
+    "complete": false,
+    "error": "Model stopped normally"
+  }
+}
